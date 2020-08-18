@@ -6,4 +6,3 @@
 4. **cproject.sql** : database of the project
 5. **project-report** : it is the report of the entire project with details about the API's, Database, Chatbot
 6. **requirements** : contains the modules with their version which are pre-requisite for the entire project
-7. **Razorpay Test App** : it is the test application of the payment gateway
